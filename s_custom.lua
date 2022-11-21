@@ -1,9 +1,9 @@
 local reports = {}
 local reports_db = {}
 local chats = {}
-local aclG = {"Console"}
-local max_chat = 20
-local max_report = 20
+local aclG = {"Console"} --ACL Permission
+local max_chat = 20 --Chat line length when screenshot is taken
+local max_report = 20 --How many screenshots can a player take?
 
 addEventHandler("onPlayerChat", root, function(message) --Chat history
     local length = #chats
