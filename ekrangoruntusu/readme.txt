@@ -1,0 +1,1 @@
+All screenshots are transferred here, pictures not sent as reports will be deleted from here after the player leaves.
