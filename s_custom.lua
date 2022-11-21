@@ -27,7 +27,7 @@ function createReport(player)
             return 
         end
     end
-    takePlayerScreenShot(player, 1360, 1024, nil, 10, 27000)
+    takePlayerScreenShot(player, 1360, 1024, nil, 90, 27000)
 end
 
 function checkScreen(fileName, count)
