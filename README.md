@@ -4,7 +4,7 @@
 # Usage
 ### 1. /raporyonetim [STAFF]
 ### 2. /sikayet [ALL] (Report Panel)
-### 3. /sikayet2 [ALL] (Create Report
+### 3. /sikayet2 [ALL] (Create Report)
 
 # Image
 ![screenshot](https://i.imgur.com/enUUZ0K.png)
