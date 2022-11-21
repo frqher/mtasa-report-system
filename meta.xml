@@ -1,0 +1,9 @@
+<meta>
+	<info author="Casti" type="script" name="ReportSystem" />
+
+	<script src="c_player.lua" type="client" cache="false" />
+	<script src="c_staff.lua" type="client" cache="false" />
+
+	<script src="s_custom.lua" type="server" />
+	<script src="s_event.lua" type="server" />
+</meta>
